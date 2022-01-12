@@ -1,6 +1,6 @@
 # DeegoFOC开发平台使用手册
 
-**作者: **[Deego Robotics](https://github.com/Deego-Robotics)
+**作者:** [Deego Robotics](https://github.com/Deego-Robotics)
 
 **2021/12/30**: 建立仓库
 
