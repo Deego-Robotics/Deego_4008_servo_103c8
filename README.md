@@ -4,6 +4,10 @@
 
 **2021/12/30**: 建立仓库
 
+![接线](docs/pics/overview.png)
+
+
+
 DeegoFOC是一款适配 [SimpleFOC](https://simplefoc.com/) 的一体闭环无刷电机开发平台，主控为 **STM32F103C8T6** ，采用高性价比的 **TLE5012B** 作为磁编码器，具备 **电流采样** 功能；本教程使用强大的 [PlatformIO](https://platformio.org/) 配合 VSCode 进行开发，无需繁琐的环境配置过程。当然，有能力的朋友也可以直接使用原生STM32开发工具进行开发，这里就不展开讨论。
 
 因个人水平有限，实验中的控制参数可能并不是最优，请多多包涵！
